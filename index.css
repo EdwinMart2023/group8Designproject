@@ -1,0 +1,15 @@
+
+
+h1{
+	text-align: center;
+	color: rgb(246, 246, 241);
+	font-size: 60px;
+}
+#row{
+	width: 1020px;
+	margin: auto;
+}
+img{
+	height: 400px;
+	width: 400px;
+}
